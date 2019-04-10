@@ -1,0 +1,4 @@
+spark_warehouse/
+archive/
+.ipynb_checkpoints/
+data/
